@@ -36,7 +36,6 @@ Before you begin, ensure you have met the following requirements:
 2. Install the dependencies
    ```bash
    npm install
-   MONGODB_URI=mongodb://localhost:27017/project_1
    npm i nodemon -g
    npm i express
    ```
