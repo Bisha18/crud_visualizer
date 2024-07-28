@@ -1,7 +1,5 @@
 # crud_visualizer
 
-# User Management System
-
 This project is a simple user management system built with Node.js, Express, MongoDB, and EJS. It allows users to perform CRUD (Create, Read, Update, Delete) operations on user data.
 
 ## Features
